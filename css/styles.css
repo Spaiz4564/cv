@@ -1,0 +1,199 @@
+h1 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 562.6%;
+  font-family: 'Sacramento', cursive;
+  color: #4ab19a;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+#get-in-touch {
+  color: #1e836c;
+  font-size: 30px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #45b29a;
+}
+
+p {
+  /***font-family: adobe-garamond-pro, serif;**/
+  font-weight: 400;
+  font-style: normal;
+  color: #545454;
+  font-size: 18px;
+  line-height: 2;
+  ;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #45b29a;
+}
+
+a {
+  color: #45b29a;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  margin-top: 40px;
+}
+
+#second-heading {
+  font-size: 0.9375rem;
+}
+
+#first-heading {}
+
+.first-line {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #f7f6f5;
+  width: 4%;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+.second-line {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #f7f6f5;
+  width: 4%;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.profile {}
+
+.skills-h2 {
+  color: #1e836c;
+  font-size: 36px;
+  margin-bottom: 100px;
+}
+
+/*********************CONTAINERS*********************/
+.top-container {
+  background-color: #e0ebe8;
+  position: relative;
+  padding-top: 130px;
+}
+
+.middle-container {
+  margin-top: 20px;
+}
+
+.contact-information {
+  background-color: #c5ded7;
+  height: 120px;
+  padding-top: 50px;
+}
+
+.bottom-container {
+  padding-top: 5px;
+}
+
+/*********************IMAGES*********************/
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+  width: 150px;
+  height: 45px;
+  top: 342px;
+}
+
+.grinder {
+  position: absolute;
+  top: 202%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  width: 150px;
+  height: 45px;
+  top: 200px;
+}
+
+.mountain {
+  width: 800px;
+  height: 300px;
+  margin-top: 183px;
+  position: absolute;
+  right: 551px;
+  top: 276px;
+  vertical-align: middle;
+}
+
+.skill-row1 {
+  margin-bottom: 40px;
+  width: 50%;
+  margin: auto auto auto 550px;
+  padding-top: 30px;
+}
+
+.skill-row2 {
+  width: 50%;
+  margin: auto 330px 80px auto;
+}
+
+.IM-GUY {
+  margin-top: 55px;
+}
+
+.skills-pic {
+  float: left;
+  margin-right: 50px;
+}
+
+.video-game {
+  margin-left: 10px;
+}
+
+.contact-me {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.btn {
+  background: #45b29a;
+  background-image: -webkit-linear-gradient(top, #45b29a, #45b29a);
+  background-image: -moz-linear-gradient(top, #45b29a, #45b29a);
+  background-image: -ms-linear-gradient(top, #45b29a, #45b29a);
+  background-image: -o-linear-gradient(top, #45b29a, #45b29a);
+  background-image: linear-gradient(to bottom, #45b29a, #45b29a);
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: Courier New;
+  color: #1b8069;
+  font-size: 20px;
+  padding: 15px 30px 15px 30px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  text-decoration: none;
+}
+
+.email-pic {
+  position: absolute;
+  right: 53.2%;
+  top: 267.3%;
+}
